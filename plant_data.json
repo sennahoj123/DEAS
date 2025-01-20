@@ -1,0 +1,94 @@
+{
+    "plants": [
+        {
+            "id": 1,
+            "name": "Lavender",
+            "latin_name": "Lavandula angustifolia",
+            "plants_per_m2": 7,
+            "height_cm": 60,
+            "blooming_months": [6, 7, 8],
+            "description": "Fragrant purple flowers, drought-resistant"
+        },
+        {
+            "id": 2,
+            "name": "Rosemary",
+            "latin_name": "Rosmarinus officinalis",
+            "plants_per_m2": 4,
+            "height_cm": 90,
+            "blooming_months": [5, 6, 7],
+            "description": "Evergreen herb with blue flowers"
+        },
+        {
+            "id": 3,
+            "name": "Thyme",
+            "latin_name": "Thymus vulgaris",
+            "plants_per_m2": 9,
+            "height_cm": 30,
+            "blooming_months": [6, 7, 8],
+            "description": "Low-growing aromatic herb"
+        },
+        {
+            "id": 4,
+            "name": "Sage",
+            "latin_name": "Salvia officinalis",
+            "plants_per_m2": 5,
+            "height_cm": 70,
+            "blooming_months": [6, 7, 8],
+            "description": "Grey-green leaves with purple flowers"
+        },
+        {
+            "id": 5,
+            "name": "Echinacea",
+            "latin_name": "Echinacea purpurea",
+            "plants_per_m2": 6,
+            "height_cm": 100,
+            "blooming_months": [7, 8, 9],
+            "description": "Purple coneflower, attracts butterflies"
+        },
+        {
+            "id": 6,
+            "name": "Sedum",
+            "latin_name": "Sedum spectabile",
+            "plants_per_m2": 8,
+            "height_cm": 45,
+            "blooming_months": [8, 9, 10],
+            "description": "Succulent with pink flower clusters"
+        },
+        {
+            "id": 7,
+            "name": "Salvia",
+            "latin_name": "Salvia nemorosa",
+            "plants_per_m2": 6,
+            "height_cm": 80,
+            "blooming_months": [6, 7, 8, 9],
+            "description": "Long-blooming purple spikes"
+        },
+        {
+            "id": 8,
+            "name": "Nepeta",
+            "latin_name": "Nepeta × faassenii",
+            "plants_per_m2": 7,
+            "height_cm": 50,
+            "blooming_months": [5, 6, 7, 8],
+            "description": "Catmint, lavender-blue flowers"
+        },
+        {
+            "id": 9,
+            "name": "Geranium",
+            "latin_name": "Geranium sanguineum",
+            "plants_per_m2": 5,
+            "height_cm": 40,
+            "blooming_months": [5, 6, 7, 8, 9],
+            "description": "Hardy geranium with pink flowers"
+        },
+        {
+            "id": 10,
+            "name": "Verbena",
+            "latin_name": "Verbena bonariensis",
+            "plants_per_m2": 7,
+            "height_cm": 35,
+            "blooming_months": [6, 7, 8, 9],
+            "description": "Tall purple flowering stems"
+        }
+    ]
+}
